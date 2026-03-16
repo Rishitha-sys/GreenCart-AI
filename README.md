@@ -33,11 +33,3 @@ GreenCart AI bridges the gap between consumer intent and environmental action. I
 - **Search Logic:** Grounded web search for live price tracking
 - **Environment:** Python 3.9+ / Node.js 18+
 
----
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/greencart-ai.git](https://github.com/yourusername/greencart-ai.git)
-   cd greencart-ai
