@@ -83,7 +83,7 @@ export default function App() {
     setError(null);
 
     try {
-      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
+      const ai = new GoogleGenAI({ apiKey:"AIzaSyCLbQVCI239YFhrprcLdKbjGv_8rUn5MA0"});
       const model = "gemini-3.1-pro-preview"; 
 
       const systemInstruction = `Role: You are the core engine for "GreenCart AI," a relatable and smart sustainability assistant for the Indian market.
