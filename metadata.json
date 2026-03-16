@@ -1,0 +1,7 @@
+{
+  "name": "GreenCart AI",
+  "description": "Multimodal sustainability assistant that analyzes grocery items and suggests eco-friendly alternatives.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
